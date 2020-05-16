@@ -5,3 +5,5 @@ Author: User2
 Added a functional requirement
 
 Added a unit test
+
+Added a feature test
